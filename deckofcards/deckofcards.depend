@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1473997659 source:c:\users\ruslan\desktop\c++\deckofcards\deck.cpp
+	"Deck.h"
+	<iostream>
+	<string>
+	<time.h>
+	<random>
+
+1473973722 c:\users\ruslan\desktop\c++\deckofcards\deck.h
+	<string>
+
+1474433883 source:c:\users\ruslan\desktop\c++\deckofcards\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<random>
+	"Deck.h"
+	"Typesofhand.h"
+
+1474433446 c:\users\ruslan\desktop\c++\deckofcards\typesofhand.h
+	<string>
+	"Deck.h"
+
+1474433897 source:c:\users\ruslan\desktop\c++\deckofcards\typesofhand.cpp
+	"Typesofhand.h"
+	<iostream>
+	<string>
+	<time.h>
+	<random>
+	<sstream>
+
